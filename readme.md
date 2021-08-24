@@ -1,10 +1,11 @@
 # Página Pessoal de Tiago
 
 Analista de Sistemas, formado em Sistemas de Informação.
+A procura do meu lugar dentro de TI
 Interessado em aprender e ensinar sempre!
 
 ## Curiosidades
 
- - Projetos em Web (Javascript com Node.js)
- - Aluno do Next do Cesar School
+ - Projetos Web (Javascript com Node.js - ReactJS - React Native)
+ - Aluno do Next do Cesar School (Python e Java)
  - Amo programar
