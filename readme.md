@@ -9,3 +9,10 @@ Interessado em aprender e ensinar sempre!
  - Projetos Web (Javascript com Node.js - ReactJS - React Native)
  - Aluno do Next do Cesar School (Python e Java)
  - Amo programar
+
+### Conhecimentos em Linguagens de Programação
+
+ * Javascript
+ * Java SE
+ * Python
+
