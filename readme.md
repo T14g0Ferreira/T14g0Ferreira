@@ -13,7 +13,7 @@ Interessado em aprender e ensinar sempre!
 ### Conhecimentos em Linguagens de Programação
 
  * Javascript
- * Java SE
+ * Typescript
  * Python
 
  <div align="center" style="display: inline_block"><br>
