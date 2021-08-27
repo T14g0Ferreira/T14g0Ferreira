@@ -3,7 +3,7 @@
 ## I'm Tiago Ferreira!
 
 Formado em Sistemas de Informação pela Uninassau.<br>
-Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos itens essenciais ao meu crescimento tanto quanto ao crescimento dos que estão junto.
+Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos itens essenciais ao meu crescimento tanto quanto ao crescimento do próximo.
 
 ## Curiosidades
 
