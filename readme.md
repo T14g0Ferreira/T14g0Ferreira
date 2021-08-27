@@ -2,9 +2,8 @@
 
 ## I'm Tiago Ferreira!
 
-Analista de Sistemas, formado em Sistemas de Informação.
-A procura do meu lugar dentro de TI
-Interessado em aprender e ensinar aquilo que conseguir!
+Formado em Sistemas de Informação pela Uninassau.
+Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos itens essenciais ao meu crescimento tanto quanto ao crescimento dos que estão junto.
 
 ## Curiosidades
 
