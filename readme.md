@@ -15,7 +15,7 @@ Interessado em aprender e ensinar aquilo que conseguir!
 
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-ferreira-b58a7392)https://www.linkedin.com/in/tiago-ferreira-b58a7392]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-ferreira-b58a7392)]
 
  <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
