@@ -1,6 +1,6 @@
 # Welcome (Bem vindo)!
 
-## I'm Tiago Ferreira!
+## Me chamo Tiago Ferreira!
 
 Formado em Sistemas de Informação pela Uninassau.<br>
 Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos itens essenciais ao meu crescimento tanto quanto ao crescimento do próximo.
@@ -9,7 +9,7 @@ Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos 
 
  - Projetos Web (Javascript com Node.js - ReactJS - React Native)
  - Aluno do Next do Cesar School (Python e Java)
- - Amo voluntariado - Atualmente na ONG Sonhar Acordado
+ - Amo voluntariado - Atualmente na ONG Sonhar Acordado (https://www.instagram.com/sonharacordadorecife/)
 
 
 ## About me
