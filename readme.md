@@ -1,31 +1,16 @@
-# Welcome (Bem vindo)!
 
-## Me chamo Tiago Ferreira!
+## Tiago Ferreira
 
-Formado em Sistemas de Informação pela Uninassau.<br>
-Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos itens essenciais ao meu crescimento tanto quanto ao crescimento do próximo.
+Systems Analyst </br></br>
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-ferreira-b58a7392)](https://www.linkedin.com/in/tiago-ferreira-b58a7392) 
+[![Gmail Badge](https://img.shields.io/badge/-tiagoferreira.mrc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoferreira.mrc@gmail.com)](mailto:tiagoferreira.mrc@gmail.com)
 
-## Curiosidades
+## Skills 
 
- - Projetos Web (Javascript com Node.js - ReactJS - React Native)
- - Aluno do Next do Cesar School (Python e Java)
- - Amo voluntariado - Atualmente na ONG Sonhar Acordado (https://www.instagram.com/sonharacordadorecife/)
-
-
-## About me
-
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=T14g0Ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=T14g0Ferreira&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center" height="180em" width="400em">
+  <img src="https://github-readme-stats.vercel.app/api?username=T14g0Ferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
- ##
-
+ 
 <div align="center"><br>
  <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,9 +19,6 @@ Determinado em buscar sempre dar mais do que esperam, empenhado e estudioso nos 
   <img align="center" alt="Tiago-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tiago-Java" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
 </div> 
- 
-
-
-
