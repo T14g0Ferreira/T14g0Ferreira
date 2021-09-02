@@ -22,3 +22,8 @@ systems analyst graduated in information systems. Fullstack programmer </br></br
   <img align="center" alt="Tiago-Java" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
 </div> 
+
+##
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=T14g0Ferreira&color=1c9133" alt="TiagoFerreira" /> 
+</div>
