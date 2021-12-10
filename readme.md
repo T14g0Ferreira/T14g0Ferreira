@@ -1,7 +1,7 @@
 
 ## Tiago Ferreira
 
-systems analyst graduated in information systems. Fullstack programmer </br></br>
+systems analyst graduated in information systems. </br></br>
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Ferreira-1c9133?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-ferreira-b58a7392)](https://www.linkedin.com/in/tiago-ferreira-b58a7392) 
 [![Gmail Badge](https://img.shields.io/badge/-tiagoferreira.mrc@gmail.com-1c9133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoferreira.mrc@gmail.com)](mailto:tiagoferreira.mrc@gmail.com)
 
